@@ -7,3 +7,4 @@ $ npm install
 $ npm start
 ````
 
+This is a demo project to showcase of using React with CDN.
